@@ -1,15 +1,15 @@
 # Virat1209
 
-#pkg install git
+pkg install git
 
-#pkg install clone
+pkg install clone
 
-#pip install bs4
+pip install bs4
 
-#pip install rich
+pip install rich
 
-#git clone https://github.com/ViratUp/Virat1209
+git clone https://github.com/ViratUp/Virat1209
 
-#cd Virat1209
+cd Virat1209
 
-#python3 VIRATUP.py
+python3 VIRATUP.py
